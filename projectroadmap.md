@@ -4,7 +4,10 @@
 - [X] Fork to KSU IS
 - [X] Find related repository
 - [X] Check if repository is up to date/ has any problems
-- [ ] Assign each problem to member
-- [ ] Run code and locate problems
+- [X] Assign each problem to member
+- [X] Run code and locate problems
+- [ ] Update problems and fix
+- [ ] Finish code 
+- [ ] Revise code
   
   
